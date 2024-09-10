@@ -1,8 +1,8 @@
 ### Olá, eu sou Gabriel Oliveira! 👋
 
-- 🔭 Hoje eu trabalho com Front-End
-- 🌱 Estudando JavaScript e React.
-- 💬 Contate no meu e-mail: developer.gabrielOliveira@gmail.com
+- 🔭 
+- 🌱 Estudando Java.
+- 💬 
 
 <div align="center">
   <a href="https://github.com/GabrielOliveira64">
